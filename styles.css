@@ -231,8 +231,8 @@ body {
 }
 
 .image-placeholder {
-    width: 500px;
-    height: 700px;
+    width: 38.88vw;
+    height: 38.88vw;
     background: transparent;
     border: none;
     border-radius: var(--border-radius);
